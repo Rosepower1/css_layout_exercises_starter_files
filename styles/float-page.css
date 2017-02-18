@@ -10,3 +10,13 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+img.left{
+	float:left;
+
+}
+
+
+img.right{
+	float:right;
+}
